@@ -1,0 +1,12 @@
+---
+name: Readme Generator Beginner
+model: gpt-5.2
+temperature: 0.45
+toolkits: elita_toolkit_task
+type: github
+notes: "Mirror of generated README.md saved per user request."
+---
+
+This file contains a copy of the generated README.md produced by the Readme Generator Beginner agent. The README explains that repository access was not provided and lists the files and information required to complete documentation.
+
+Please see README.md at the repository root for the full generated README content and instructions on next steps.
