@@ -1,0 +1,16 @@
+---
+name: Readme Generator Beginner
+model: gpt-5.2
+temperature: 0.45
+toolkits: elita_toolkit_task
+type: github
+branch: readme-gen-repo_content
+---
+
+# Repository structure
+
+<!--STRUCTURE-->
+
+# File contents needed for documentation
+
+<!--FILE_CONTENTS-->
